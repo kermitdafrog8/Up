@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       -= gui
+QT       -= gui widgets concurrent
 
 TARGET = FATX
 TEMPLATE = lib
